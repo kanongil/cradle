@@ -11,7 +11,7 @@
   ],
   "main": "./lib/cradle",
   "dependencies": { 
-    "follow": "0.7.x",
+    "follow": "git+https://github.com/kanongil/follow.git",
     "request": "2.x.x",
     "vargs": "0.1.0"
   },
